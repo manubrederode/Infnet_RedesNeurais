@@ -2,9 +2,9 @@
 
 ### Projeto - Aplicação de Redes Neurais
 
-Objetivo: O aluno deverá ser capaz de realizar uma análise completa dos dados e projetar uma rede neural para resolver o problema. Avaliar os resultados obtidos através das métricas de classificação.
+**Objetivo**: O aluno deverá ser capaz de realizar uma análise completa dos dados e projetar uma rede neural para resolver o problema. Avaliar os resultados obtidos através das métricas de classificação.
 
-Problema: De posse de dados que correspondem a sinais de transitórios de eletrodomésticos (sinais obtidos em uma janela de 2s ao se ligar
+**Problema**: De posse de dados que correspondem a sinais de transitórios de eletrodomésticos (sinais obtidos em uma janela de 2s ao se ligar
 equipamento) e que foram rotulados em 7 diferentes classes, o aluno deverá realizar os seguintes passos:
 
 1) Carregar os dados e realizar a limpeza dos dados (se necessário).
