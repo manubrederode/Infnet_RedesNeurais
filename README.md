@@ -1,6 +1,8 @@
 # Infnet_RedesNeurais
 
-### Projeto - Aplicação de Redes Neurais
+### Projeto - Aplicação de Redes Neurais para classificação de eletrodomésticos.
+
+Este projeto mostra o desenvolvimento de um modelo de redes neurais multilayer perceptron para fazer a classificação de sete classes de eletrodomésticos.
 
 **Objetivo**: O aluno deverá ser capaz de realizar uma análise completa dos dados e projetar uma rede neural para resolver o problema. Avaliar os resultados obtidos através das métricas de classificação.
 
